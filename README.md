@@ -1,2 +1,2 @@
 # VOR
-Bu bir Discord botudur.
+Oh
